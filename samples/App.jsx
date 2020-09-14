@@ -1,5 +1,9 @@
 import OwnReact from "../src";
 
-const App = <h1 prop1="prop value">Hello, World!</h1>;
+const App = (
+  <ul>
+    <li>a</li>
+  </ul>
+);
 
 export default App;
