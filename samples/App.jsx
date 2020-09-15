@@ -1,9 +1,10 @@
 import OwnReact from "../src";
 
 const App = (
-  <ul>
-    <li>a</li>
-  </ul>
+  <div className="test">
+    <h1>fsdfsdf</h1>
+    <div>fsdfsdf</div>
+  </div>
 );
 
 export default App;
